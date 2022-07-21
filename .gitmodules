@@ -1,0 +1,3 @@
+[submodule "genga"]
+	path = genga
+	url = https://PeterParkerC@bitbucket.org/sigrimm/genga.git
