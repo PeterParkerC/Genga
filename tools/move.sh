@@ -1,4 +1,5 @@
 #!/bin/bash
 
-mv OutTer* Output_file/
+mv Out_* Output_file/
 mv aeCountA* aeCount/
+mv aei_* aei/
